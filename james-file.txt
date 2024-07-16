@@ -1,5 +1,1 @@
-Hello Jossiah I made changes to ths file yay!!
-Hi james I have seen your newly added file and message
-This is my line 3
-CHANGES AHHH
-
+Attempted to load @next/swc-win32-x64-msvc, but an error occurred: \\?\C:\Users\jmse8\Desktop\app\node_modules\@next\swc-win32-x64-msvc\next-swc.win32-x64-msvc.node is not a valid Win32 application.
